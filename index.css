@@ -1,0 +1,24 @@
+#nav{
+    background: linear-gradient(90deg,rgba(18, 18, 18, 1) 10%, rgba(22, 4, 255, 0.84) 35%);}
+#button{
+    border-style: solid;
+    background: white;
+}
+.nav-item{
+    font-size: large;
+}
+.nav-item :hover{
+    color: rgb(0, 0, 0) !important;
+}
+#nav-item-link{
+    color: white;
+}
+#logo{
+    width: 8%;
+    background-color: rgba(18,18,18,1);
+ border-style: hidden;
+}
+@media (max-width:991px){
+    #form, #search{
+        width: 100% !important;
+    }
