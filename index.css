@@ -8,7 +8,7 @@
     font-size: large;
 }
 .nav-item :hover{
-    color: rgb(0, 0, 0) !important;
+    color: rgb(197, 76, 76) !important;
 }
 #nav-item-link{
     color: white;
@@ -22,3 +22,8 @@
     #form, #search{
         width: 100% !important;
     }
+    #logo{
+        margin-left: auto;
+        width: 5rem;
+    }
+}
