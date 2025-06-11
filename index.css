@@ -27,3 +27,7 @@
         width: 5rem;
     }
 }
+.container img{
+ width: 10vw;
+ height: 20vh;
+}
